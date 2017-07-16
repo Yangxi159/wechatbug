@@ -1,0 +1,17 @@
+certifi==2017.4.17
+chardet==3.0.4
+click==6.7
+Flask==0.12.2
+future==0.16.0
+gunicorn==19.7.1
+idna==2.5
+itchat==1.2.32
+itsdangerous==0.24
+Jinja2==2.9.6
+MarkupSafe==1.0
+pypng==0.0.18
+PyQRCode==1.2.1
+requests==2.18.1
+urllib3==1.21.1
+Werkzeug==0.12.2
+wxpy==0.3.9.8

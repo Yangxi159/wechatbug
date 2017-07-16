@@ -1,0 +1,3 @@
+#--*--coding:utf-8--*--
+raw_type = 42
+raw_content =  '<?xml version="1.0"?>\n<msg bigheadimgurl="http://wx.qlogo.cn/mmhead/Q3auHgzwzM58kYPK6M99zibicIogeZoFkKBMicTRjRVcYiajRagXibgdO1g/0" smallheadimgurl="http://wx.qlogo.cn/mmhead/Q3auHgzwzM58kYPK6M99zibicIogeZoFkKBMicTRjRVcYiajRagXibgdO1g/132" username="gh_48453ce5ff0d" nickname="微言报晓"  shortpy="WYBX" alias="skdwcs" imagestatus="0" scene="17" province="山东" city="青岛" sign="" sex="0" certflag="24" certinfo="上海昂齐纺织品有限公司" brandIconUrl="http://mmbiz.qpic.cn/mmbiz_png/Sx3xbuicLO1Usgpq9XQPosU3P5zLxo68W1NbpOddmtcKF8gxgPZJwyIBOQ3XhxE4ddZxFricDFlEc6UV6letdOVA/0?wx_fmt=png" brandHomeUrl="" brandSubscriptConfigUrl="" brandFlags="0" regionCode="CN_Shandong_Qingdao" />\n'
