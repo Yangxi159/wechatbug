@@ -58,20 +58,17 @@ def run_wxpy():
         sys.exit()
 
 
-@app.route('/wx')
-def start():
+@app.route('/')
+def run_thread():
+    threading.Thread(target=run_wxpy ).start()
+    while not qrSource:
+        time.sleep(1)    
     if len(qrSource) < 100:
         return qrSource
     else:
         response = make_response(qrSource)
         response.headers['Content-Type'] = 'image/jpeg'
         return response
-@app.route('/')
-def run_thread():
-    threading.Thread(target=run_wxpy ).start()
-    time.sleep(4)    
-    return redirect(url_for('start'))
-
 if __name__ == '__main__':
     app.run()
 
