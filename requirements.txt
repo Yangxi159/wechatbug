@@ -13,5 +13,5 @@ pypng==0.0.18
 PyQRCode==1.2.1
 requests==2.18.1
 urllib3==1.21.1
-Werkzeug==0.12.2
+Werkzeug==0.15.3
 wxpy==0.3.9.8
